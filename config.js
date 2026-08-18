@@ -10,7 +10,7 @@ window.TEM_CONFIG = {
   formEndpoint: "",
 
   social: {
-    linkedin: "",
+    linkedin: "https://www.linkedin.com/company/tem-techs",
     facebook: "",
     instagram: "",
     x: "",
