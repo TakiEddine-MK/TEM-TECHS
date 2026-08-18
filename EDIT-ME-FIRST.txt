@@ -1,0 +1,16 @@
+TEM TECHS — VS CODE EDITING START
+
+1. Open this entire folder in Visual Studio Code (File > Open Folder).
+2. index.html = homepage structure.
+3. styles.css = design, spacing, animations and responsive layout.
+4. app.js = interactions, dynamic hero, ticker, chat and language behavior.
+5. config.js = business email, phone, WhatsApp and social-media URLs.
+6. i18n.js = English / French / German website translations.
+7. services-data.js = service content and detailed service translations.
+8. assets/ = logo, favicon and hero images.
+9. services/ = individual service pages.
+
+Browser tab branding is intentionally fixed to: TEM TECHS
+Favicon: white circle + teal T.
+
+When ready for GoDaddy, upload the CONTENTS of this folder to public_html.
