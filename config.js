@@ -1,9 +1,9 @@
 window.TEM_CONFIG = {
   companyName: "TEM Techs Technology",
-  email: "YOUR_EMAIL@example.com",
-  phone: "+49 000 0000000",
-  whatsapp: "491234567890",
-  location: "Germany · Europe · Remote",
+  email: "takieddine.mokhati@temtechs.com",
+  phone: "+971505892721",
+  whatsapp: "+971505892721",
+  location: "Germany · Europe · Middle East",
 
   // Optional: connect a real form service such as Formspree / Getform / your own API.
   // Example: "https://formspree.io/f/xxxxxx"
